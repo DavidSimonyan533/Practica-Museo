@@ -1,0 +1,30 @@
+header {
+    background-color: lightgoldenrodyellow;
+}
+
+nav {
+    background-color: greenyellow;
+}
+
+div.orange {
+    background-color: orange;
+}
+
+div.imagenes {
+    display: inline;
+}
+
+footer {
+    background-color: blue;
+    position: relative;
+    top: -16px;
+}
+
+p.yellow {
+    background-color: yellow;
+    width: 220px;
+    height: 20px;
+    color: blue;
+}
+
+
