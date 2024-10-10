@@ -1,9 +1,11 @@
 header {
     background-color: lightgoldenrodyellow;
+    text-align: center;
 }
 
 nav {
     background-color: greenyellow;
+    text-align: center;
 }
 
 div.orange {
@@ -25,6 +27,7 @@ p.yellow {
     width: 220px;
     height: 20px;
     color: blue;
+    text-align: center;
 }
 
 
